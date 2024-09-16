@@ -1,9 +1,9 @@
 const cacheName = "uuuGames-Pixel Quest 2D-1.0";
 const contentToCache = [
-    "Build/1.loader.js",
-    "Build/1.framework.js",
-    "Build/1.data",
-    "Build/1.wasm",
+    "Build/3.loader.js",
+    "Build/3.framework.js.gz",
+    "Build/3.data.gz",
+    "Build/3.wasm.gz",
     "TemplateData/style.css"
 
 ];
